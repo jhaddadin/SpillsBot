@@ -7,6 +7,6 @@ Finally, it uses ImageMagik to create an animated GIF showing the location of ea
 
 ### Example from [@MassSpillsBot](https://twitter.com/MassSpillsBot)
 
-https://twitter.com/MassSpillsBot
+https://twitter.com/MassSpillsBot/status/752929955328188416
 
 Note: This Twitter account is no longer active. RIP @MassSpillsBot.
